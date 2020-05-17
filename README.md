@@ -1,6 +1,6 @@
 # act1_shared_preferences
 
-A new Flutter application.
+Aplicación en Android Studio, Log In y almacenamiento de los datos con shared preferences.
 
 ## Getting Started
 
